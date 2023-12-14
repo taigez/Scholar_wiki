@@ -1,0 +1,193 @@
+Int,Awd,Edu,Text
+0,0,1,"
+Divesh Aggarwal received his Ph.D. in Computer Science from ETH Zurich in 2012."
+0,0,1,"From 2012 to 2016, he spent two years each as a postdoctoral researcher at New York University and at EPFL."
+0,0,0,"Since 2016, he has been a faculty member in the Department of Computer Science, and a Principal Investigator in the Centre for Quantum Technologies at the National University of Singapore."
+1,0,0,His research in the last decade has revolved around the following two themes.
+0,0,0,"
+
+1."
+0,0,0,"Fine-grained complexity, and exponential algorithms for hard problems: A primary focus has been to understand the time complexity and the relation between the computational complexity of various computational problems, particularly lattice problems."
+0,0,0,"This includes both finding faster algorithms, and proving lower bounds under reasonable complexity theoretic assumptions."
+0,0,0,"
+
+2."
+0,0,0,Randomization has played a very important role in many areas of computer science.
+0,0,0,"In practice, a source has some entropy, but is not uniformly random."
+0,0,0,"The goal of transforming these imperfect random sources into perfectly random bits has, over the last few decades, led to a large body of research on the theory of randomness extractors and related primitives, and their applications in classical areas like privacy amplification, and tamper-resilient cryptography."
+1,0,0,"Some of his recent research centers around improving construction of such extractors in various settings, and their applications."
+0,0,0,"
+Dr. Ai Xin is currently a Lecturer with the School of Computing at the National University of Singapore (NUS)."
+0,0,0,"She has many years of experience teaching Artificial Intelligence and Data Science courses such as machine learning, deep learning, and data mining, etc.
+
+"
+0,0,1,She graduated from NUS with a PhD degree in Electrical and Computer Engineering.
+1,0,0,"Her research focuses on Game Theoretical Modelling, Optimization Methods, Algorithm Design and Wireless Networks.
+
+"
+0,0,0,"She worked in BHP Billiton Marketing Asia for eight years and gained plenty of industry experience through different functions, e.g. risk management, supply chain management, sales and marketing planning and etc.
+"
+0,0,0,"
+
+Boyd Anderson is a Lecturer in the Department of Computer Science at the School of Computing at the National University of Singapore (NUS)."
+0,0,1,He received his PhD from the NUS Graduate School for Integrative Sciences and Engineering in association with School of Computing in 2019.
+0,0,1,"He received a Masters and Postgraduate Diploma of Science in Statistics and Operations Research, a Graduate Diploma of Science in Computer Science and a Bachelors of Science in Physics from Victoria University of Wellington."
+1,0,0,"His research interests are in the fields of Embedded Systems, Body Sensor Networks, and the Internet of Things."
+1,0,0,His doctorate research focused on human gait measurement and analysis using Ultra Wideband sensor systems.
+0,0,0,"
+Hugh Anderson is an Associate Professor in the Department of Computer Science at the School of Computing, here at the National University of Singapore (NUS)."
+1,0,0,"Prior to joining NUS he was employed at USP (The University of the South Pacific) in Suva, Fiji, where he lectured in the CS department there, specializing in Operating Systems and Networking."
+0,0,0,"He has also been employed at CIT (Central Institute of Technology) in NZ as a Principal Lecturer, and at Weltec (Wellington Institute of Technology) as Research Chair, in the Centre for Creative Technologies."
+0,0,0,"For many years, Hugh worked as a consultant, developing a range of products including (computer based) fuel saving techniques, designing and implementing a network monitoring system, designing and implementing both the hardware and software for cash registers, petrol pumps, a spark eroder, remote monitoring stations, hospital foetal monitoring systems, security systems based on phones and so on."
+1,0,1,"
+Hugh is a local, earning his Ph.D. right here in SoC.
+
+Professor Anderson has wide interests in computing, including compiler design, functional languages, non-V-N computer architectures, operating systems, datacomms, distributed systems, formal methods, software verification and validation, distributed and parallel computing, and embedded systems."
+1,0,0,"These days he spends a lot of time developing embedded systems software for wearable sensors.
+
+"
+0,0,0,"
+Arnab Bhattacharyya is an assistant professor at the School of Computing at NUS."
+0,0,1,"He obtained his bachelor?€?s, master?€?s and doctoral degrees in computer science from the Massachusetts Institute of Technology."
+0,0,0,"Subsequently, he was a postdoctoral associate at Princeton University and Rutgers University."
+0,0,0,"He was previously an assistant professor and a Ramanujan Fellow at the Indian Institute of Science, Bangalore."
+1,0,0,"Dr. Bhattacharyya's research area is theoretical computer science and the foundations of data science, in a broad sense."
+1,0,0,"Specifically, he is interested in algorithms for problems involving high-dimensional data, statistics, coding theory, and complexity theory."
+0,1,0,Dr. Bhattacharyya's work has been presented at several premier international conferences and journals.
+0,1,0,He is the recipient of an NRF Fellowship for AI (2019) and an Amazon Research Award (2018).
+0,0,1,"
+
+I graduated with Bachelor degree in Computing with Gold Medal (University topper) from Bharathiar University in 1994, Professional Masters in Computer Applications from Bharathidasan University in 1999, PGC in Teaching Higher Education from University of Sheffield, UK in 2003 and P.hD. from NUS in 2011."
+0,1,0,I received research achievement award and my thesis was nominated for best PhD thesis award.
+0,0,0,I am a member of the Communication and Internet Research Lab (www.cir.nus.edu.sg) and Graduate studies committee.
+0,0,0,I am founder of Anuflora Systems (www.anuflora.com) and Virtual and Augmented Reality Labs (www.varlabs.org).
+0,0,0,"I am Associate Editor of Computers and Electrical Engineering Journal, Elsevier."
+0,0,0,"I am Vice President of International Researchers club, Singapore."
+0,0,0,I have been serving as Organizing Chair and Program Chair of several International conferences and in the Program Committees of several International conferences.
+0,0,0,"I have given Keynote talks in IEEE/ACM International Conferences.
+
+"
+0,0,0,"
+
+St??phane Bressan is Associate Professor in the Department of Computer Science of the School of Computing (SoC) of the National University of Singapore (NUS)."
+0,0,0,St??phane is Track Leader for Maritime Information Technologies at NUS Centre for Maritime Studies (CMS).
+0,0,0,He is Affiliate Professor at NUS Business Analytics Centre and Faculty Affiliate at NUS Institute of Data Science.
+0,1,0,He is also a member of the Image & Pervasive Access Lab (IPAL) (Singapore-France CNRS UMI 29255).
+0,0,0,"In 1990, St??phane joined the European Computer-industry Research Centre (ECRC) of Bull, ICL, and Siemens in Munich (Germany)."
+0,0,0,"In 1994, he was appointed site Leader of the Database Platform project and Principal Investigator and Work-package Manager for the European IDEA ESPRIT project on Intelligent Databases."
+0,0,0,"From 1996 to 1998, he was Research Associate at the Sloan School of Management of the Massachusetts Institute of Technology (MIT) (United States of America)."
+0,0,0,"
+Xavier Bresson is an Associate Professor in the Department of Computer Science at the National University of Singapore (NUS)."
+1,0,0,"His research focuses on Graph Deep Learning, a new framework that combines graph theory and neural networks to tackle complex data domains."
+0,1,0,"In 2017, he received the USD 2M NRF Fellowship, the largest individual grant in Singapore, to develop this new framework."
+0,1,0,He was also awarded several research grants in the U.S. and Hong Kong.
+0,0,0,He co-authored one of the most cited works in this domain (10th most cited paper at NeurIPS) and has significantly contributed to mature these emerging techniques.
+0,0,0,"He has organized several conferences, workshops and tutorials on graph deep learning such as the 2022 conference on ?€?Learning on Graphs?€?, the IPAM'23 workshops on ""Learning and Emergence in Molecular Systems"", the IPAM'23'21 workshops on ""Deep Learning and Combinatorial Optimization"", the MLSys'21 workshop on ""Graph Neural Networks and Systems"", the IPAM'19 and IPAM'18 workshops on ""New Deep Learning Techniques"", and the NeurIPS'17, CVPR'17 and SIAM'18 tutorials on ""Geometric Deep Learning on Graphs and Manifolds""."
+0,0,0,He has been a regular invited speaker at universities and companies to share his work.
+0,0,0,"He has also been a speaker at the NeurIPS'22, KDD'21, AAAI'21 and ICML'20 workshops on ""Graph Representation Learning"", and the ICLR'20 workshop on ""Deep Neural Models and Differential Equations""."
+0,0,0,He has taught undergraduate and graduate courses on Deep Learning and Graph Neural Networks since 2014.
+0,0,0,"Online profiles: Twitter (8,000+ followers): shorturl.at/ilnB1, GScholar (15,000+ citations/60+ articles): shorturl.at/iuy59, GitHub (2,500+ stars): shorturl.at/MQWY8, YouTube (70,000+ views): shorturl.at/eg279, LinkedIn: shorturl.at/mvzMW
+
+"
+0,0,0,"
+
+Cristina is a lecturer at the National University of Singapore."
+0,0,0,"Her teaching experience includes courses on Software Engineering (Introduction, Project development, Testing), Computer Networks, Parallel Computing, and Performance Analysis."
+0,0,1,Cristina received her PhD in Computer Science in 2013 from National University of Singapore where she worked under the supervision of Associate Professor Yong Meng Teo.
+1,0,0,Her research interests include analytic modeling and performance analysis for distributed systems.
+0,0,0,"
+Trevor E. Carlson is an Assistant Professor of Computer Science at the School of Computing at the National University of Singapore (NUS)."
+0,0,1,"He earned B.S. and M.S. degrees in Electrical and Computer Engineering from Carnegie Mellon University in 2002 and 2003, and his Ph.D. in Computer Science Engineering from Ghent University in 2014."
+1,0,0,"His research interests include highly-efficient microarchitectures, hardware/software co-design, performance modeling and fast and scalable simulation methodologies."
+1,0,0,"Through the use of fast bottleneck analysis and simulation, his goal is to improve both performance and efficiency of next-generation processors."
+0,0,0,Dr. Carlson has over a decade of computer architecture experience covering both industry and academia.
+0,0,0,"While a staff engineer at IBM from 2003 and 2007, he helped to author 4 issued patents."
+0,0,0,"During his PhD, in collaboration with the Intel ExaScience Lab, he co-developed the Sniper Multi-core Simulator which is being used by hundreds of researchers to evaluate the performance and power-efficiency of next generation systems."
+0,0,0,"As a researcher at imec, Belgium, and as a postdoctoral researcher at Uppsala University, Sweden, he investigated processor architectures to more efficiently handle long-latency memory accesses."
+0,0,0,"Dr. Carlson?€?s research has been published at leading journals and conferences in computer architecture and simulation such as the International Symposium on Computer Architecture, the International Symposium on Microarchitecture, the International Symposium on High Performance Computer Architecture and the International Symposium on Performance Analysis of Systems and Software.
+
+"
+0,1,0,"Dr. Carlson has received a number of awards for his research into simulation, sampling and modeling."
+0,1,0,"He is a recipient of the Best Paper Award at the International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation in 2016, and the Best Paper Award at the International Symposium on Performance Analysis of Systems and Software in 2013."
+0,1,0,"In addition, he has received two Best Paper Award nominations, one from the International Symposium on Performance Analysis of Systems and Software in 2015 and one from the International Symposium on Performance Analysis of Systems and Software in 2014."
+0,1,0,"He was selected to attend the Heidelberg Laureate Forum as an outstanding young researcher with Turing, Fields and Abel Award winners in 2015, and his work with the Sniper Multi-Core Simulator received the HiPEAC Technology Transfer Award in 2013."
+0,0,0,"
+Dr. Diptarka CHAKRABORTY is an assistant professor in the Department of Computer Science."
+0,0,1,"He obtained his PhD degree in Computer Science and Engineering from the Indian Institute of Technology Kanpur, India in 2016."
+0,0,0,"After that, he spent two years at Charles University, Prague, Czech Republic as a post-doctoral fellow hosted by Prof. Michal Koucky, and then almost a year at Weizmann Institute of Science, Israel as a post-doctoral fellow hosted by Prof. Robert Krauthgamer."
+1,0,0,"His research interests are in the areas of Theoretical Computer Science; more specifically, algorithms on large data set, streaming algorithms, string matching algorithms, graph algorithms, and data structures."
+0,0,0,"
+Dr. Chan Chee Yong is an Associate Professor of Computer Science of the School of Computing at the National University of Singapore (NUS)."
+0,0,0,"Prior to joining NUS, he was a Member of Techical Staff at Bell Laboratories, Lucent Technologies."
+0,0,1,He received his Ph.D. degree in Computer Science from the University of Wisconsin-Madison.
+0,0,1,He holds a B.Sc.
+0,0,1,(First Class Honours) degree and a M.Sc. degree both in Computer Science from NUS.
+0,0,0,"Dr. Chan?€?s research is the area of database systems with a focus on query processing and optimization, transaction management, and database usability."
+0,0,0,"His research has been published in ACM SIGMOD, VLDB, and IEEE ICDE Conferences."
+0,0,0,He is currently an Associate Editor of ACM SIGMOD Record and VLDB Journal.
+0,0,0,"He has previously served as an Associate Editor of IEEE TKDE Journal and Proceedings of the VLDB Endownment (Volume 6, 2012/2013)."
+0,0,1,"
+
+Mun Choon graduated with a BS in Computer and Electrical Engineering from Purdue University with highest distinction in 1990, MSEE in 1993 and Ph.D. in 1997, both from Columbia University."
+0,0,0,"In Columbia, he was a member of the comet group and worked under the supervision of Prof. Aurel A. Lazar on large scale network emulation, network management and programmable network."
+0,0,0,"From 1997 to 2003, he was a Member of Technical Staff in the Networking Research Laboratory, Bell Labs, Lucent Technologies."
+1,0,0,"In Bell Labs, he worked on network management and wireless data transport over cellular network."
+0,0,0,"His work in Bell Labs includes highly cited work on TCP/IP performance over 3G wireless links (MobiCom 2012) and a US patent on cache-based compaction technique that has more than 210 patent citations (US Patent 6,178,461)."
+0,0,0,He joined NUS in 2004 and is currently a Professor in the School of Computing.
+0,0,0,"He is a member of the Communication and Internet Research Lab, and his research areas cover sensor network protocols, mobile sensing and programmable network."
+0,1,0,"He has received best paper awards in IEEE ICNP 2019, ACM SOSR 2019 and ICDCN 2016 (networking track)."
+0,0,0,"He has also served on the Technical Program Committees of INFOCOM, ICNP, Sensys and IPSN."
+0,0,0,"He has graduated 21 PhD students, served as the Associate Editor of IEEE Transaction on Mobile Computing, published more than 100 conference/journal papers and has been awarded 7 US patents."
+0,0,0,"
+
+Ee-Chien Chang is an Associate Professor in the School of Computing at National University of Singapore."
+0,0,1,"He received his PhD in Computer Science from New York University, and was a postdoctoral fellow with DIMACS in Rutgers University and NEC Labs America."
+1,0,0,"His research areas cover information security, multimedia, and their intersection."
+1,0,0,"His earlier works include image forensic, image watermarking and secure cryptographic techniques for noisy data."
+1,0,0,"More recently, he has been investigating issues in data privacy and cloud security."
+0,0,0,"He has published in reputable conferences and journals, including CCS, EUROCRYPT, USENIX Security, ACM Multimedia, INFOCOM, Journal of Applied and Computational Harmonic Analysis, etc."
+0,0,0,He is a lead-PI of National Cybersecurity R&D Laboratory.
+0,0,0,"
+
+CHANG Yi-Jun is an NUS Presidential Young Professor in the Department of Computer Science at the National University of Singapore."
+0,0,1,"Previously, he was a junior fellow in the Institute for Theoretical Studies (ETH-ITS) at ETH Zurich."
+0,0,1,He received his Ph.D. in Computer Science and Engineering from the University of Michigan in 2019.
+1,0,0,"He is broadly interested in theoretical computer science, with a focus on the design and analysis of distributed, parallel, and sublinear graph algorithms."
+0,1,0,He received the best paper award and the best student paper award at PODC 2019.
+0,1,0,His doctoral dissertation received the 2020 ACM-EATCS Principles of Distributed Computing Doctoral Dissertation Award.
+0,0,0,Prof. Chen Tsuhan is the Deputy President (Research and Technology) and Distinguished Professor at National University of Singapore (NUS).
+0,0,0,"He also serves as the Chief Scientist of AI Singapore, a national programme in artificial intelligence."
+1,0,0,"Prof. Chen is a renowned expert in pattern recognition, computer vision and machine learning."
+0,0,0,"He joined NUS from Cornell University, Ithaca, New York, United States, where he had been the David E. Burr Professor of Engineering since 2009."
+0,0,0,"From 2009 to 2013, when he served as Director, School of Electrical and Computer Engineering at Cornell, he promoted the School to top ranking positions and launched several initiatives to boost innovation as well as foster research and teaching excellence."
+0,0,0,He also directed the Advanced Multimedia Processing Laboratory.
+0,0,0,"From 1997 to 2008, Prof. Chen was a Professor with the Department of Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, Pennsylvania, USA, where he served as the Associate Department Head from 2007 to 2008."
+0,0,0,Prof. Chen was the Cheng Tsang Man Chair Professor and Dean of the College of Engineering (CoE) at the Nanyang Technological University (NTU) from 2015 to 2017.
+0,0,0,"He championed faculty recruitment and pioneered support schemes at the NTU CoE to encourage inter-school multidisciplinary programmes, aligned with the domain areas identified in RIE2020."
+0,0,0,"
+
+"
+0,0,0,Prof. Chen was appointed the Editor-in-Chief for IEEE Transactions on Multimedia in 2002-2004.
+0,1,0,"He was elected to the Board of Governors, 2007-2009, and a Distinguished Lecturer, 2007-2008, both with the IEEE Signal Processing Society.
+
+"
+0,1,0,Prof. Chen received the Charles Wilts Prize for outstanding independent research at the California Institute of Technology in 1993.
+0,1,0,He was a recipient of the US National Science Foundation CAREER Award from 2000 to 2003.
+0,1,0,"He received the Benjamin Richard Teare Teaching Award in 2006, the Eta Kappa Nu Award for Outstanding Faculty Teaching in 2007, both at the Carnegie Mellon University, and the Michael Tien Teaching Award in 2014 at the Cornell University.
+
+"
+0,0,0,Prof. Chen has published more than 300 technical papers and holds close to 30 US patents.
+0,0,0,"He is a member of the Phi Tau Phi Scholastic Honor Society, a Fellow of IEEE, and a Fellow of the Institute of Engineers, Singapore."
+0,0,1,"He earned his PhD degree in electrical engineering from the California Institute of Technology, Pasadena, California, USA, in 1993."
+0,0,0,"
+
+Alan, CHENG Ho-lun ????????? was born in Hong Kong."
+0,0,1,He completed his Bachelor's degree in computer science at the Chinese University of Hong Kong and M.Phil.
+0,0,0,in computer science at the Hong Kong University of Science and Technology.
+0,0,1,"He then began his doctoral work at the University of Illinois at Urbana-Champaign, completing a Ph.D. in computer science in May 2002, with thesis titled ""Algorithms for Smooth and Deformable Surfaces in 3D"" under the supervision of Prof. Herbert Edelsbrunner."
+0,0,0,"(Erdos number = 3)
+
+"
+1,0,0,"Ho-lun's interests include computational geometry, parametric surfaces, computer graphics, visualization."
+0,0,0,He was a teaching assistant during his master degree and received the Best Teaching Assistant Award in 1996 at HKUST.
+0,0,0,"During the Ph.D. years, he was a visiting scholar in the BioGeometry Center in Duke University."

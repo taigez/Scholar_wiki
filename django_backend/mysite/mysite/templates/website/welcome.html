@@ -1,0 +1,73 @@
+{% extends 'base.html' %}
+
+{% block title %}Scholar Classifier{% endblock %}
+
+
+{% block content %}
+
+<div class="card text-center">
+    <div class="card-header text-muted">
+      work in progress...
+      <a href="{% url 'testing' %}" class="btn btn-outline-danger">Testing (DO NOT CLICK!)</a>
+      <a href="{% url 'reset' %}" class="btn btn-outline-warning">Reset ALL</a>
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">Hello! Welcome to Scholar Classifier!</h5>
+      <p class="card-text">Insturctions to this backend page ...</p>
+      <a href="{% url 'pending' %}" class="btn btn-outline-primary position-relative">Pending Sentences
+
+        {% if num_pending %}
+          <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+            {{ num_pending }}
+          </span>
+        {% else %}
+
+        {% endif %}
+        
+      </a>
+    </div>
+  </div>
+
+  <div class="card text-center">
+    <h5 class="card-header">Academic Awards</h5>
+    <div class="card-body">
+      <h5 class="card-title">There are currently {{num_awd_sentences}} Academic Awards sentences in storage.</h5>
+      <p class="card-text">50 sentences are needed to start a new training loop!</p>
+      <a href="{% url 'awards' %}" class="btn btn-outline-primary">View</a>
+      <a href="{% url 'train_awd' %}" class="btn btn-outline-primary">Train Awd</a>
+    </div>
+</div>
+
+
+<div class="card text-center">
+    <h5 class="card-header">Education Background</h5>
+    <div class="card-body">
+      <h5 class="card-title">There are currently {{num_edu_sentences}} Education Background sentences in storage.</h5>
+      <p class="card-text">50 sentences are needed to start a new training loop!</p>
+      <a href="{% url 'education' %}" class="btn btn-outline-primary">View</a>
+      <a href="{% url 'train_edu' %}" class="btn btn-outline-primary">Train Edu</a>
+    </div>
+</div>
+
+
+<div class="card text-center">
+    <h5 class="card-header">Research Interest</h5>
+    <div class="card-body">
+      <h5 class="card-title">There are currently {{num_int_sentences}} Research Interest sentences in storage.</h5>
+      <p class="card-text">50 sentences are needed to start a new training loop!</p>
+      <a href="{% url 'interest' %}" class="btn btn-outline-primary">View</a>
+      <a href="{% url 'train_int' %}" class="btn btn-outline-primary">Train Int</a>
+    </div>
+</div>
+
+
+
+<div class="card text-center">
+  <h5 class="card-header">Position</h5>
+  <div class="card-body">
+    <h5 class="card-title">There are currently {{num_pos_sentences}} position sentences in storage.</h5>
+    <a href="{% url 'position' %}" class="btn btn-outline-primary">View</a>
+  </div>
+</div>
+
+{% endblock %}

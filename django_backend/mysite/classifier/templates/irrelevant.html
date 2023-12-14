@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+
+{% block title %}Scholar Classifier{% endblock %}
+
+
+{% block content %}
+
+<div class="card text-center">
+    <div class="card-body">
+      <h5 class="card-title">This is the list of sentences that has been mislabeled. These sentences will be given a weight when added to the dataset.</h5>
+    </div>
+</div>
+
+
+<div class="card text-center">
+    <h5 class="card-header">Academic Awards</h5>
+    <div class="card-body">
+        {% for sen in awd_sentences  %}
+        <div class="card text-lg-center">
+            <div class="card-body">
+              <p class="card-text"> {{sen.body}} </p>
+              <a href="{% url 'delete_irr_awd' sen.id %}" class="btn btn-outline-danger">Delete</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+
+<div class="card text-center">
+    <h5 class="card-header">Education Background</h5>
+    <div class="card-body">
+      {% for sen in edu_sentences %}
+        <div class="card text-lg-center">
+            <div class="card-body">
+                <p class="card-text"> {{sen.body}} </p>
+                <a href="{% url 'delete_irr_edu' sen.id %}" class="btn btn-outline-danger">Delete</a>
+            </div>
+        </div>
+      {% endfor %}
+    </div>
+</div>
+
+
+<div class="card text-center">
+    <h5 class="card-header">Research Interest</h5>
+    <div class="card-body">
+        {% for sen in int_sentences %}
+        <div class="card text-lg-center">
+            <div class="card-body">
+                <p class="card-text"> {{sen.body}} </p>
+                <a href="{% url 'delete_irr_int' sen.id %}" class="btn btn-outline-danger">Delete</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+
+
+
+{% endblock %}
